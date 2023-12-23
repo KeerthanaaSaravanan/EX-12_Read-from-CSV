@@ -20,8 +20,16 @@ Program to read contents from a CSV file.
 Developed By:Keerthana S
 Register Number: 23013398
 '''
+import pandas as pd
+f = pd.read_csv('nba.csv')
+print(f.head(10))
+print(f.tail())
+print('Number of Rows:', len(f.axes[0]))
+print('Number of Columns:', len(f.axes[1]))
 
 ```
 ## OUTPUT:
 
+
 ## RESULT:
+The  program successfully reads contents from a CSV file and prints each record. 
