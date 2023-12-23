@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Department,Position,Salary,JoinDate
+101,John,Doe,Marketing,Marketing Specialist,55000,2020-05-15
+102,Jane,Smith,Finance,Financial Analyst,60000,2019-12-10
+103,Michael,Johnson,Human Resources,HR Manager,75000,2021-02-22
+104,Emily,Williams,IT,Software Engineer,70000,2020-08-17
+105,Robert,Brown,Operations,Operations Coordinator,50000,2021-06-05
+106,Amy,Jones,Sales,Sales Representative,60000,2019-11-03
+107,David,Miller,Finance,Senior Accountant,65000,2020-03-28
+108,Susan,Anderson,IT,Systems Administrator,72000,2021-08-12
+109,Christopher,Davis,Human Resources,Recruiter,58000,2020-01-09
+110,Megan,Taylor,Sales,Sales Manager,80000,2019-09-14
