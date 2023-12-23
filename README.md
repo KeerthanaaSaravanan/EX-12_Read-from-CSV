@@ -29,6 +29,8 @@ print('Number of Columns:', len(f.axes[1]))
 
 ```
 ## OUTPUT:
+![Screenshot 2023-12-23 133300](https://github.com/KeerthanaaSaravanan/EX-12_Read-from-CSV/assets/145742596/224fa1c5-211b-4b37-bf2e-586688f6e0ed)
+![Screenshot 2023-12-23 134945](https://github.com/KeerthanaaSaravanan/EX-12_Read-from-CSV/assets/145742596/540639f9-4991-4282-be69-1e46d3705e98)
 
 
 ## RESULT:
